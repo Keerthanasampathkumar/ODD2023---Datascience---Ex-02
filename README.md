@@ -91,9 +91,11 @@ Original data for bhp.csv file:
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/483db17f-65ea-48da-a4eb-565dc13b9f42)
 
 Dataset information:
+
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/628fa0f8-d843-4417-8105-9251ed87542b)
 
 Shape of a data:
+
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/b57a7bf5-dde2-439e-aa37-d7612fd5cf2a)
 
 Box Plot of price_per_sqft column without outliers:
@@ -118,9 +120,11 @@ Original data of height_weight.csv file for height:
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/79c7f351-7080-40c9-ac21-438dde0a6d19)
 
 Dataset information:
+
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/729a31e0-eef9-4e0f-80f4-759ac197acf7)
 
 Shape of a dataset:
+
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/8edcea6d-6b95-4f3b-a713-9a6077f0277a)
 
 
