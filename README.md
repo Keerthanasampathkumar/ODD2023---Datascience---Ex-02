@@ -33,8 +33,9 @@ Step 7 Check if the outliersare removed from data set using graphical methods.
 
 Step 8 Save the final data set into the file.
 
-Program:
+## Program:
 NAME : KEERTHANA S
+
 REG NO : 212222230066
 ```C
 FOR BHP.CSV FILE
