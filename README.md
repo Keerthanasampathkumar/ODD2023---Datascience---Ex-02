@@ -158,6 +158,7 @@ Removing the outlier for weight column by using IRQ :
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/0db57522-f7b7-4aa3-8b57-656dad5ac256)
 
 Box Plot of height column after IRQ:
+
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/1e88f828-e589-4123-a4b7-7831b4aded5d)
 
 ## Result:
