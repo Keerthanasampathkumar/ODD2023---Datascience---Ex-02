@@ -144,20 +144,26 @@ Original data of height_weight.csv file for weight:
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/cfc4293d-2a35-443c-a0da-ad23efe533b0)
 
 Dataset information:
+
+
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/76384c92-af1d-46d5-856b-60f091c06798)
 
 Shape of a dataset:
+
+
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/2069a380-d230-4e76-b0be-a915316e4306)
 
 Box plot weight column without outlier:
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/999ce487-d9f8-4aa0-9053-d5071c5e851c)
 
 Removing the outlier for weight column by using IRQ :
+
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/2d4495f9-c7e9-4eb8-8b4b-a5874cdb5b2f)
 
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/0db57522-f7b7-4aa3-8b57-656dad5ac256)
 
 Box Plot of height column after IRQ:
+
 
 ![image](https://github.com/Keerthanasampathkumar/ODD2023---Datascience---Ex-02/assets/119477890/1e88f828-e589-4123-a4b7-7831b4aded5d)
 
